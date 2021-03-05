@@ -1,4 +1,4 @@
-with open('pmid-transcript-set.txt', 'r') as f:
+with open('pmid-ovariancan-set', 'r') as f:
     PMIDList = f.read().splitlines()
     # print(PMIDList)
     
